@@ -1,0 +1,2 @@
+@Transactional added in service layer
+able to run main program to inser data to table
